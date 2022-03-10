@@ -5,9 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>        This is a very powerful react app
+</h1>
         <p>
-          I am the PaaS maestro
+          This is definitely not just a silly demo
         </p>
       </header>
     </div>
